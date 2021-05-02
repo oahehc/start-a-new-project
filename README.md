@@ -133,4 +133,4 @@ export default MyApp;
 - Jest
 - semantic-release
 - commitlint
--
+- error tracking: sentry, logRocket, trackJS
