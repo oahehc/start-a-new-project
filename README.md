@@ -125,7 +125,7 @@ export default MyApp;
 --
 
 ## TODO:
-
+- google search console
 - pre-commit hook: husky
 - CICD:
   - GitHub action
