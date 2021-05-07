@@ -1,4 +1,4 @@
-# start-a-new-project
+# How to start a new project
 
 the steps to start a new project
 
@@ -122,6 +122,12 @@ export default MyApp;
    }
    ```
 
+
+
+## Optional
+
+- Icons: https://github.com/tabler/tabler-icons
+
 --
 
 ## TODO:
@@ -134,3 +140,4 @@ export default MyApp;
 - semantic-release
 - commitlint
 - error tracking: sentry, logRocket, trackJS
+- 
