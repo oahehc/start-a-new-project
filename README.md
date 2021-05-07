@@ -127,6 +127,7 @@ export default MyApp;
 ## Optional
 
 - Icons: https://github.com/tabler/tabler-icons
+- UI components: https://headlessui.dev/
 
 --
 
