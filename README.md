@@ -140,5 +140,11 @@ export default MyApp;
 - Jest
 - semantic-release
 - commitlint
+  ```
+  https://github.com/conventional-changelog/commitlint/issues/601
+  CI
+  npx commitlint --from << pipeline.git.base_revision >> --to << pipeline.git.revision >>
+  npx commitlint --from origin/master --to << pipeline.git.revision >>
+  ```
 - error tracking: sentry, logRocket, trackJS
 - 
